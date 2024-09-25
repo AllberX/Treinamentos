@@ -1,0 +1,36 @@
+# Calculadora de Porcentagem
+
+Uma simples **calculadora de porcentagem** desenvolvida em HTML, CSS e JavaScript. Este projeto permite ao usuário calcular a porcentagem de um número e escolher se deseja somar ou subtrair essa porcentagem.
+
+## Funcionalidades
+
+- Calcule a porcentagem de um número.
+- Escolha entre somar ou subtrair a porcentagem do número original.
+- Interface simples e amigável.
+
+## Como Usar
+
+1. **Clone o repositório** ou **faça o download dos arquivos**.
+2. Abra o arquivo `index.html` em um navegador.
+3. Insira um número e uma porcentagem.
+4. Selecione se deseja somar ou subtrair.
+5. Clique no botão "Calcular" para ver o resultado.
+
+## Tecnologias Usadas
+
+- HTML
+- CSS
+- JavaScript
+
+## Autor
+
+**AllberX - Sylvio Alberto**  
+Analista de Sistemas | Gestor de TI
+
+## Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
+
+## Agradecimentos
+
+Agradecemos a todos que contribuíram para este projeto e ajudaram a torná-lo possível.
